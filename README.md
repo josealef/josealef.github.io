@@ -3,7 +3,7 @@
 #### Self-motivated professional with advanced knowledge of human resources and management principles.
 
 ## Education
-- B.A.S. Business & Org. Leadership | Valencia College, Orlando, Fl (_2023_)								       		
+- B.A.S. Business & Org. Leadership | Valencia College, Fl (_2023_)								       		
 - A.S. Business Administration	| Valencia College, Orlando, Fl (_2021_)	 			        		
 - B.S Computer Engineering | UCLA, Barquisimeto, Lara (_2013_)
 
