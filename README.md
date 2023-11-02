@@ -43,17 +43,17 @@
 - Manage the inventory based on a weekly budget to maintain operations running without hiccups.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Attendance Optimization Macro: A Cost-Saving Workforce Management Solution
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Created and deployed a **VBA**-based solution to enhance workforce management at the company by optimizing daily attendance tracking and related metrics, including Timecard discrepancies, Missed Engagements, Bereavement abuse, and early in and Late Out reports. This implementation resulted in significant cost savings exceeding $100,000 by identifying and rectifying attendance-related issues, leading to improved payroll accuracy and reduced losses.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### Budget Management and Expense Allocation Leadership in Peak Season Operations
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+Managed a peak season project with a $360,000 budget allocation responsibility, overseeing the distribution of expenses for associate prizes, manager's recognition, and activity planning. Utilized **VBA** for developing trackers, *Coupa (SAP)* for Purchase Orders (P.O.s), and *SAP* for budgeting and inventory management, ensuring efficient budget utilization and cost tracking during the high-demand period.
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+### Optimizing Employee Insurance Benefits: A Strategic Evaluation of Multiple Providers
+
+Collaborated with insurance providers to meticulously assess and identify the most suitable insurance benefits for employees, covering areas such as vision, dental, health, short-term disability, and life insurance. This comprehensive evaluation involved comparing costs and benefits across up to six different insurance companies, resulting in an optimized insurance plan tailored to the specific needs and preferences of employees.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
