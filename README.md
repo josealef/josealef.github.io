@@ -3,13 +3,13 @@
 #### Self-motivated professional with advanced knowledge of human resources and management principles.
 
 ## Education
-- B.A.S. Business & Organizational Leadership | Valencia College, Orlando, Fl (_2023_)								       		
+- B.A.S. Business & Org. Leadership | Valencia College, Orlando, Fl (_2023_)								       		
 - A.S. Business Administration	| Valencia College, Orlando, Fl (_2021_)	 			        		
 - B.S Computer Engineering | UCLA, Barquisimeto, Lara (_2013_)
 
 ## Certificates and Technical Diplomas
 
-- Technical - Operations Support and Services | Valencia College, Orlando, Fl (_2022_)
+- Technical - Operation Support & Services | Valencia College, Orlando, Fl (_2022_)
 - Technical - Business Operations | Valencia College, Orlando, Fl (_2022_)
 - Technical - Business Specialist | Valencia College, Orlando, Fl (_2020_)
 - Data Management I, SAP, Orlando, FL Completed in 2020
