@@ -12,8 +12,8 @@
 - Technical - Operation Support & Services | Valencia College (_2022_)
 - Technical - Business Operations | Valencia College (_2022_)
 - Technical - Business Specialist | Valencia College (_2020_)
-- Data Management I, SAP (_2020_)
-- Data Management II, SAP (_2020_)
+- Certificate - Data Management I | SAP (_2020_)
+- Certificate - Data Management II | SAP (_2020_)
 
 ## Work Experience
 **Human Resources Project Manager @ Amazon (_April 2018 - Present_)**
