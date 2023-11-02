@@ -12,8 +12,8 @@
 - Technical - Operation Support & Services | Valencia College, Orlando, Fl (_2022_)
 - Technical - Business Operations | Valencia College, Orlando, Fl (_2022_)
 - Technical - Business Specialist | Valencia College, Orlando, Fl (_2020_)
-- Data Management I, SAP, Orlando, FL Completed in 2020
-- Data Management II, SAP, Orlando, FL Completed in 2020
+- Data Management I, SAP, Orlando, FL Completed in (_2020_)
+- Data Management II, SAP, Orlando, FL Completed in (_2020_)
 
 ## Work Experience
 **Human Resources Project Manager @ Amazon (_April 2018 - Present_)**
