@@ -18,6 +18,7 @@
 ## Work Experience
 
 **HR Manager @ Eden site Development (_April 2022 - Present_)**
+
 •	HR Manager for five companies: Eden Site Develop., Sandrema, Noble Survey, Woodland, Optical Solutions Underground, and Noble Land.
 •	Ability to understand business goals and recommend new approaches, policies, and procedures to effect continual improvements in business objectives, productivity, and development of HR within the company.
 •	Ability to create a vision and goals for an HR team and inspire and motivate the team to achieve excellence in customer support and core HR processes.
@@ -27,6 +28,7 @@
 •	Assist managers in answering associate questions regarding time/attendance, benefits, policies, accommodations, workers’ compensation, and LOA.
 
 **Human Resources Project Manager @ Amazon (_April 2018 - September 2023_)**
+
 •	Implemented a new global mechanism to intake, then track Technology enhancements from initiation through deployment to provide transparency to requesters and all stakeholders. The mechanism includes a new enhancement scoring tool, streamlined tracking through process stages, and regular executive updates. 
 •	Created KPIs to track and measure the throughput of Tech enhancements using a new mechanism. Mechanism increased the number of completed requests by 46% and decreased the request backlog by 47% by introducing and enforcing consistent backlog refinement tools.  
 •	Automated processes by leveraging different project management tools such as Asana and Nintex, increasing the efficiency of the process by 40% 
@@ -36,6 +38,7 @@
 •	Reported out on metrics to evaluate and benchmark performance and revise processes accordingly.
 
 **Human Resources Partner @ Amazon (_April 2016 - August 2018_)**
+
 Assist associates, managers, operations, and business partners in worldwide operations HR.
 •	Developed and implemented a Macro for the site’s daily attendance vs. forecasted attendance, TCD (Timecard discrepancy), Missed Engagements, Bereavement abuse, early in and Late Out reports, helping save over $250,000 in payroll expenses and losses.
 •	Led peak season managing a $360,000 budget to allocate expenses such as the associates' prizes, managers' recognition, and activities planning to ensure a great associate experience across the building.
@@ -46,6 +49,7 @@ Assist associates, managers, operations, and business partners in worldwide oper
 •	Oversaw recruitment, interviewing, hiring, and onboarding of new company staff, contributing to the growth and development of the workforce.
 
 **Manager @ Paramount Hospitality Management (_June 2013 - July 2018_)**
+
 •	Oversee all the department management functions and manage a group of about 90 employees.
 •	Responsible for ensuring efficient department operations per hospitality standards and supervising the entire department, including rooms front/back of house public areas and laundry.
 •	Effectiveness at listening to understanding, clarifying, and resolving the concerns and issues of coworkers and guests.
