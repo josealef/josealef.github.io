@@ -50,7 +50,7 @@
 
 •	Reported out on metrics to evaluate and benchmark performance and revise processes accordingly.
 
-**Human Resources Partner @ Amazon (_April 2016 - August 2018_)**
+**Human Resources Partner @ Amazon (_April 2016 - April 2018_)**
 
 Assist associates, managers, operations, and business partners in worldwide operations HR.
 
