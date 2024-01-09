@@ -9,6 +9,7 @@
 
 ## Certificates and Technical Diplomas
 
+- Google Data Analytics Certificate - Data Analyst | My Merit America (_2024_)
 - Technical - Operation Support & Services | Valencia College (_2022_)
 - Technical - Business Operations | Valencia College (_2022_)
 - Technical - Business Specialist | Valencia College (_2020_)
