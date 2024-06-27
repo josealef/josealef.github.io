@@ -20,23 +20,25 @@
 
 **HR Manager @ Eden site Development (_April 2022 - Present_)**
 
-•	HR Manager for five companies: Eden Site Develop., Sandrema, Noble Survey, Woodland, Optical Solutions Underground, and Noble Land.
+•	HR Manager for six companies: Eden Site Development, Sandrema, Noble Survey, Woodland, Optical Solutions Underground, and Noble Land.
 
-•	Ability to understand business goals and recommend new approaches, policies, and procedures to effect continual improvements in business objectives, productivity, and development of HR within the company.
+•	Conducted a thorough analysis of various insurance brokers to identify the best options for the company, enhancing employee benefits to improve retention rates.
 
-•	Ability to create a vision and goals for an HR team and inspire and motivate the team to achieve excellence in customer support and core HR processes.
+•	Successfully negotiated with insurance brokers to secure comprehensive and competitive benefits packages, increasing employee satisfaction and retention.
 
-•	Advanced project management skills: leading projects at a network level to influence and obtain buy-in and then drive execution and achievement of the right results.
+•	Developed an Excel comparison tool to cross-verify data between the timecard and payroll processing systems, ensuring all information matched for accurate and efficient payroll completion.
 
-•	Promoted internal candidates (Full cycle recruiting) to HR by following Amazon standards.
+• Proposed and implemented a modern HR software solution to streamline payroll processing, reducing the reliance from three systems to two; collaborated with accounting, project management, operations, and HR departments to ensure a smooth transition and effective use
 
-•	Enter and review associate data within HRIS and payroll systems timely and accurately.
+•	Managed, developed, and negotiated comprehensive new hire packages for leadership roles encompassing operations and office staff to attract and retain top talent.
 
-•	Assist managers in answering associate questions regarding time/attendance, benefits, policies, accommodations, workers’ compensation, and LOA.
+•	Promoted internal candidates (Full cycle recruiting) to HR by following the company’s standards.
+
+•	Assist managers in answering employee’s questions regarding time/attendance, benefits, policies, accommodations, workers’ compensation, and LOA.
 
 **Human Resources Project Manager @ Amazon (_April 2018 - September 2023_)**
 
-•	Implemented a new global mechanism to intake, then track Technology enhancements from initiation through deployment to provide transparency to requesters and all stakeholders. The mechanism includes a new enhancement scoring tool, streamlined tracking through process stages, and regular executive updates. 
+•	Implemented a new global mechanism for intake, then tracked Technology enhancements from initiation through deployment to provide transparency to requesters and all stakeholders. The mechanism includes a new enhancement scoring tool, streamlined tracking through process stages, and regular executive updates. 
 
 •	Created KPIs to track and measure the throughput of Tech enhancements using a new mechanism. Mechanism increased the number of completed requests by 46% and decreased the request backlog by 47% by introducing and enforcing consistent backlog refinement tools.  
 
@@ -70,22 +72,22 @@ Assist associates, managers, operations, and business partners in worldwide oper
 
 **Manager @ Paramount Hospitality Management (_June 2013 - July 2018_)**
 
-•	Oversee all the department management functions and manage a group of about 90 employees.
+•	Oversee all the department management functions and manage a group of about 90 employees, including housemen, supervisors, and housekeepers.
+
+•	Led an initiative to gather and analyze software usage data, identifying gaps in understanding among managers and facilitating training to maximize utilization of all software features.
+
+•	Conducted a comprehensive vendor analysis project, evaluating various suppliers to identify the most cost-effective options, ensuring optimal budget alignment and quality standards.
+
+•	Developed an Excel tracking system for expenses, including labor, supplies, and services, to enhance budget accuracy and provide a comprehensive financial overview.
 
 •	Responsible for ensuring efficient department operations per hospitality standards and supervising the entire department, including rooms front/back of house public areas and laundry.
 
-•	Effectiveness at listening to understanding, clarifying, and resolving the concerns and issues of coworkers and guests.
-
-•	Establish and maintain a key control system for the department.
-
-•	Responsible for Assisting the director with ensuring the hotel's overall cleanliness and product quality by our luxury standards.
-
-•	Manage the inventory based on a weekly budget to maintain operations running without hiccups.
+•	Managed weekly inventory for linen, amenities, and room items, ensuring seamless operations within budget constraints and preventing stock shortages.
 
 ## Projects
 ### Attendance Optimization Macro: A Cost-Saving Workforce Management Solution
 
-Created and deployed a **VBA**-based solution to enhance workforce management at the company by optimizing daily attendance tracking and related metrics, including Timecard discrepancies, Missed Engagements, Bereavement abuse, and early in and Late Out reports. This implementation resulted in significant cost savings exceeding $100,000 by identifying and rectifying attendance-related issues, leading to improved payroll accuracy and reduced losses.
+Created and deployed a **VBA**- based solution to enhance workforce management at the company by optimizing daily attendance tracking and related metrics, including Timecard discrepancies, Missed Engagements, Bereavement abuse, and early in and Late Out reports. This implementation resulted in significant cost savings exceeding $100,000 by identifying and rectifying attendance-related issues, improving payroll accuracy, and reducing losses.
 
 ### Budget Management and Expense Allocation Leadership in Peak Season Operations
 
@@ -93,7 +95,7 @@ Managed a peak season project with a $360,000 budget allocation responsibility, 
 
 ### Optimizing Employee Insurance Benefits: A Strategic Evaluation of Multiple Providers
 
-Collaborated with insurance providers to meticulously assess and identify the most suitable insurance benefits for employees, covering areas such as vision, dental, health, short-term disability, and life insurance. This comprehensive evaluation involved comparing costs and benefits across up to six different insurance companies, resulting in an optimized insurance plan tailored to the specific needs and preferences of employees.
+Collaborated with insurance providers to meticulously assess and identify the most suitable insurance benefits for employees, covering areas such as vision, dental, health, short-term disability, and life insurance. This comprehensive evaluation involved comparing costs and benefits across up to six different insurance companies, resulting in an optimized insurance plan tailored to employees' specific needs and preferences.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
